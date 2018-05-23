@@ -1,0 +1,9 @@
+mongo:
+        host : 'localhost'
+        port : 27017
+        db : 'kur'
+        timeout : 5
+        collection:
+                        eur: 'EUR'
+                        usd: 'USD'
+
